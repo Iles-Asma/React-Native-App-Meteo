@@ -1,0 +1,23 @@
+{
+	"expo": {
+		"name": "MeteoAPP",
+		"slug": "reactMeteo",
+		"privacy": "public",
+		"platforms": ["ios", "android", "web"],
+		"version": "1.0.0",
+		"orientation": "portrait",
+		"icon": "./assets/img/cloud.png",
+		"splash": {
+			"image": "./assets/img/cloud.png",
+			"resizeMode": "contain",
+			"backgroundColor": "#ffffff"
+		},
+		"updates": {
+			"fallbackToCacheTimeout": 0
+		},
+		"assetBundlePatterns": ["**/*"],
+		"ios": {
+			"supportsTablet": false
+		}
+	}
+}
