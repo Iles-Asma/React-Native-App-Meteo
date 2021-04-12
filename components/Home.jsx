@@ -6,7 +6,8 @@ export default function Home(props) {
 	let currents = new Date();
 	let date = `${currents.getDate()}/${currents.getMonth() + 1}/${currents.getFullYear()}`;
 	let time = `${currents.getHours() + 2}h${currents.getMinutes()}`;
-	const apiKey = "418d8f884d4320d97e0168b433684e57";
+	// vous devez crée un compte sur https://home.openweathermap.org/users/sign_in pour obtenir votre clé d'API
+	const apiKey = "votre clé  d'api";
 	const city = "paris";
 
 	// const city = input
