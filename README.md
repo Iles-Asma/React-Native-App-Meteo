@@ -7,7 +7,7 @@ le téléchargement est disponible sur cette URL : https://nodejs.org/en/downloa
 Choisir de préfernce la version LTS
 
 # Installation :
-- faire : "npm install" 
+- faire : `npm install`
 # Pour lancer le projet après installation :
 - faire : `npm start` ou `expo start` dans le terminal en étant dans la racine du projet
 
