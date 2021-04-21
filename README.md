@@ -9,7 +9,7 @@ Choisir de préfernce la version LTS
 # Installation :
 - faire : "npm install" 
 # Pour lancer le projet après installation :
-- faire : "npm start" ou "expo start" dans le terminal en étant dans la racine du projet
+- faire : `npm start` ou `expo start` dans le terminal en étant dans la racine du projet
 
 # Emulateur : 
 
@@ -24,7 +24,7 @@ Avoir Xcode et Démarer un émulateur
 - Depuis votre terminal apres qu'un QR code a été générer appuyez sur la touche "a" de votre clavier.
 - Depuis la fenetre ouverte sur votre navigateur, choisisez : "Run on Android/device emulator"
 
-- Vous devriez voir alors sur votre emulator une page blance avec s'ouvrir avec un nuage et un chargement.
+- Vous devriez voir alors sur votre emulator s'ouvrir une page avec un nuage et un chargement.
 - Sinon suivez les instructions sur votre terminal qui va vous installer l'application expo sur votre emulator et vous ouvrir l'app meteo
 
 # Utiliser son propre Téléphone comme émulateur
